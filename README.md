@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Ana Perez</h1>
-    <h3 align="center">Frontend developer from Colombia.
+    <h3 align="center">Frontend developer from Colombia
 </div>
 
 
@@ -10,7 +10,8 @@
 ---
 
 ### 👨‍💻 About Me :
-
+    
+Im a Frontend Developer with a passion for learning, I am constantly seeking new challenges. Being an autodidact, I am committed to self-improvement and am always in a state of learning, pushing myself to exceed my own expectations. Additionally, I thrive in fast-paced and dynamic environments and am highly adaptable to change, allowing me to quickly adjust and deliver results.   
 
 
 <div align="left">
