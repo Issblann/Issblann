@@ -11,7 +11,8 @@
 
 ### 👨‍💻 About Me :
     
-Im a  <b> Frontend Developer </b> with a passion for learning, I am constantly seeking new challenges. Being an <b> autodidact </b>, I am committed to self-improvement and am always in a state of learning, pushing myself to exceed my own expectations. Additionally, I thrive in fast-paced and dynamic environments and am highly <b> adaptable </b> to change, allowing me to quickly adjust and deliver results.   
+Software developer with experience creating user interfaces and a strong focus on user experience. My passion for intuitive, visually appealing interfaces, coupled with my ability to implement coding practices and problem-solving skills, drives my professional growth in 
+dynamic and collaborative environments.
 
 
 <div align="left">
