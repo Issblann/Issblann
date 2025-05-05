@@ -43,9 +43,9 @@ I thrive in collaborative environments, applying clean code practices and delive
       </div>
     
  <div>
-    <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/anaperafan-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anaperafan-dev/" height="50" width="50" /></a>
+    <h3>Connect with me:</h3>
+<p>
+<a href="https://www.linkedin.com/in/anaperafan-dev/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anaperafan-dev/" height="40" width="40" /></a>
 </p>
 </div>
 
@@ -53,7 +53,3 @@ I thrive in collaborative environments, applying clean code practices and delive
 ### 📊 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Issblann&theme=onedark)](https://git.io/streak-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Issblann&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
